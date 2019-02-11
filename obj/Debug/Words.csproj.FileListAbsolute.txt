@@ -1,0 +1,7 @@
+C:\Users\sreeparna\Desktop\C# a1\Words\Words\obj\Debug\Words.csprojAssemblyReference.cache
+C:\Users\sreeparna\Desktop\C# a1\Words\Words\obj\Debug\Words.csproj.CoreCompileInputs.cache
+C:\Users\sreeparna\Desktop\C# a1\Words\Words\bin\Debug\Words.exe.config
+C:\Users\sreeparna\Desktop\C# a1\Words\Words\bin\Debug\Words.exe
+C:\Users\sreeparna\Desktop\C# a1\Words\Words\bin\Debug\Words.pdb
+C:\Users\sreeparna\Desktop\C# a1\Words\Words\obj\Debug\Words.exe
+C:\Users\sreeparna\Desktop\C# a1\Words\Words\obj\Debug\Words.pdb
